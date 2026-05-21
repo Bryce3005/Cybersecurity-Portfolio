@@ -12,14 +12,14 @@ Cybersecurity student focused on troubleshooting, system administration, network
 - Python
 - Incident Response
 
-
+--
 ## Certifications
 - CompTIA A+
 - CompTIA Network+
 - CompTIA Security+
 - Blue Team Level 1
 
-
+--
 ## Projects
 
 ### Help Desk Lab
@@ -32,7 +32,7 @@ Simulated enterprise IT support environment using Windows Server, Active Directo
 - Network troubleshooting
 - Remote support
 
-
+--
 ### SOC Analyst Lab
 Built a home SOC environment for log monitoring and threat detection.
 
@@ -43,7 +43,7 @@ Built a home SOC environment for log monitoring and threat detection.
 - Windows event monitoring
 - Incident investigation
 
-
+--
 ## Contact
 - [LinkedIn](www.linkedin.com/in/bryce-falker)
 - [Gmail](brycefalker3005@gmail.com)
