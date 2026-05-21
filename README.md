@@ -45,6 +45,6 @@ Built a home SOC environment for log monitoring and threat detection.
 
 
 ## Contact
-- LinkedIn: [LinkedIn](www.linkedin.com/in/bryce-falker)
-- Email: [Gmail](brycefalker3005@gmail.com)
-- YouTube: [Youtube](https://www.youtube.com/@brycefalker3005)
+- [LinkedIn](www.linkedin.com/in/bryce-falker)
+- [Gmail](brycefalker3005@gmail.com)
+- [Youtube](https://www.youtube.com/@brycefalker3005)
