@@ -24,6 +24,7 @@ Cybersecurity student focused on troubleshooting, system administration, network
 
 ### Help Desk Lab
 Simulated enterprise IT support environment using Windows Server, Active Directory, and ticket troubleshooting.
+- [View Repository](https://github.com/Bryce3005/help-desk)
 
 **Skills Demonstrated**
 - User account creation
@@ -35,6 +36,7 @@ Simulated enterprise IT support environment using Windows Server, Active Directo
 ---
 ### SOC Analyst Lab
 Built a home SOC environment for log monitoring and threat detection.
+- [View Repository](https://github.com/Bryce3005/soc-lab)
 
 **Skills Demonstrated**
 - SIEM configuration
